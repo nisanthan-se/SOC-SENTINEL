@@ -156,3 +156,23 @@ This dashboard provides an overview of:
 - Host-wise security events
 - SSH authentication timelines
 - Incident investigation reports
+
+## 📸 Project Screenshots
+
+### 1. SOC Security Monitoring Dashboard
+
+![SOC Dashboard](screenshots/SOC-Security-Monitoring-Dashboard.png)
+
+Displays security events, failed SSH logins, successful logins, source IP analysis and host-wise monitoring.
+
+### 2. SSH Brute Force Detection Alert
+
+![Brute Force Alert](screenshots/Mac-SSH-Brute-Force-Alert-Configuration.png)
+
+Shows the configured Splunk alert for detecting repeated SSH authentication failures.
+
+### 3. Automated PDF Incident Report
+
+![Incident Report](screenshots/SOC-Incident-Report.png)
+
+Demonstrates the Python-generated security incident report, including authentication analysis and severity classification.
