@@ -141,3 +141,18 @@ Cybersecurity | Blue Team | Security Operations Center | SIEM | Incident Respons
 
 **Project Name:** SOC SENTINEL  
 **Status:** Core implementation completed
+
+## 📸 SOC Dashboard Screenshots
+
+### SOC Security Monitoring Dashboard
+
+![SOC Security Monitoring Dashboard](screenshots/SOC-Security-Monitoring-Dashboard.png)
+
+This dashboard provides an overview of:
+- Total security events
+- Failed SSH login attempts
+- Successful SSH logins
+- Source IP analysis
+- Host-wise security events
+- SSH authentication timelines
+- Incident investigation reports
