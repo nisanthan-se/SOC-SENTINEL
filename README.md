@@ -161,7 +161,7 @@ This dashboard provides an overview of:
 
 ### 1. SOC Security Monitoring Dashboard
 
-![SOC Dashboard](screenshots/SOC-Security-Monitoring-Dashboard.png)
+![SOC Dashboard](screenshots/SOC Security Monitoring Dashboard.png)
 
 Displays security events, failed SSH logins, successful logins, source IP analysis and host-wise monitoring.
 
